@@ -1,7 +1,6 @@
 from copy import deepcopy
 
 xlim, ylim = 3, 2  # board dimension constants
-xlim, ylim = 3, 2  # board dimensions
 
 class GameState:
 
